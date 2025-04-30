@@ -10,6 +10,13 @@ This application provides a complete solution for Vietnamese sentiment analysis 
 
 The system uses a fine-tuned PhoBERT model to identify three main sentiment types: positive, neutral, and negative.
 
+## Video demo
+
+
+https://github.com/user-attachments/assets/c9241b72-8d46-4aa7-b5f2-df7c673747cd
+
+
+
 ## Directory Structure
 
 ```
